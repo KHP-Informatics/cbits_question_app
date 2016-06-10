@@ -1,0 +1,24 @@
+{ "sessionContent":
+  [
+    {
+      "order":1,
+      "variable":"session1_1b",
+      "form":"session_1",
+      "section":"",
+      "type":"radio",
+      "label":"Over the past 4 weeks how often have you felt down depressed or hopeless?",
+      "choices":"a little bit | somewhat | a lot",
+      "field":"",
+      "validation":"",
+      "min":"",
+      "max":"",
+      "identifier":"",
+      "branching_logic":"",
+      "required":"",
+      "alignment":"",
+      "question_number":"",
+      "matrix_group":"",
+      "matrix_ranking":""
+    }
+  ]
+}
